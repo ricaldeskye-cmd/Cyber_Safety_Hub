@@ -57,12 +57,12 @@ nav a:hover, .active {
 
 
 .page, .info {
-  max-width: 800px;
+  max-width: 600px;
   margin: 2em auto;
-  padding: 0 1em;
+  padding: 1.5em;
   background: white;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 2px; #cfe2ff
+  box-shadow: 0 0 15px rgba(0,0,0,0.8);
 }
 
 .page h2, .info h3 {
