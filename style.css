@@ -70,15 +70,6 @@ nav a:hover, .active {
 }
 
 
-.tips-box {
-  background-color: #e0ecff;
-  padding: 1em;
-  border-left: 5px solid #003366;
-  margin-top: 1em;
-  border-radius: 4px;
-}
-
-
 footer {
   background-color: #003366;
   color: white;
